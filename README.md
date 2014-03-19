@@ -1,5 +1,7 @@
 # sse.js: a server-sent events implementation for node.js #
 
+My fork.
+
 The HTML5 Server-Sent events specification is introduced "to enable servers to push data to Web pages over HTTP or using dedicated server-push protocols".
 
 The spec can be found [here](http://dev.w3.org/html5/eventsource/).
